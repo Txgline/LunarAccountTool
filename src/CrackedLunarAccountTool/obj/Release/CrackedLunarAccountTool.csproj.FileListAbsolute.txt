@@ -1,0 +1,16 @@
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\CrackedLunarAccountTool.exe
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\CrackedLunarAccountTool.pdb
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\Newtonsoft.Json.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.csproj.AssemblyReference.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.csproj.CoreCompileInputs.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedL.9811CD4B.Up2Date
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.exe
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.pdb
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\CrackedLunarAccountTool.exe.config
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Buffers.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Memory.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Numerics.Vectors.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.csproj.Fody.CopyLocal.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\CrackedLunarAccountTool.csproj.Fody.RuntimeCopyLocal.cache

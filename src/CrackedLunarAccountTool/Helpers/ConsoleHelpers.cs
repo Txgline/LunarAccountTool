@@ -2,7 +2,7 @@
 using System.Drawing;
 using Console = Colorful.Console;
 
-namespace CrackedLunarAccountTool.Helpers
+namespace LunarAccountTool.Helpers
 {
     internal class ConsoleHelpers
     {
@@ -10,18 +10,32 @@ namespace CrackedLunarAccountTool.Helpers
         {
             var dateDebug = DateTime.Now.ToString("HH:mm:ss");
 
+            // Print the timestamp
             Console.Write($@" [{dateDebug}] > ", Color.FromArgb(80, 80, 80));
-            Console.Write($@"[{info}] ", color);
+
+            // Only print [info] if it's not empty
+            if (!string.IsNullOrEmpty(info))
+            {
+                Console.Write($@"[{info}] ", color);
+            }
+
             Console.Write(text);
         }
 
         public static void PrintLine(string info, string text, Color color)
         {
-            var dateDebug = DateTime.Now.ToString("HH:mm:ss");
+            // Print the timestamp
+            Console.Write("[", Color.Gray);
+            Console.Write(DateTime.Now.ToString("HH:mm:ss"), Color.DarkGray);
+            Console.Write("] ", Color.Gray);
 
-            Console.Write($@" [{dateDebug}] > ", Color.FromArgb(80, 80, 80));
-            Console.Write($@"[{info}] ", color);
-            Console.Write($@"{text}{Environment.NewLine}");
+            // Only print [info] if it's not empty
+            if (!string.IsNullOrEmpty(info))
+            {
+                Console.Write($"[{info}] ", color);
+            }
+
+            Console.WriteLine(text, Color.White);
         }
     }
 }

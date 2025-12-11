@@ -1,0 +1,16 @@
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\Newtonsoft.Json.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Buffers.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Memory.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Numerics.Vectors.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.csproj.AssemblyReference.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.csproj.CoreCompileInputs.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.csproj.Fody.CopyLocal.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.csproj.Fody.RuntimeCopyLocal.cache
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAcc.FFD026D0.Up2Date
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\LunarAccountTool.exe.config
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\LunarAccountTool.exe
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\bin\Release\LunarAccountTool.pdb
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.exe
+C:\Users\dannu\OneDrive\Dokument\myEXE\src\CrackedLunarAccountTool\obj\Release\LunarAccountTool.pdb

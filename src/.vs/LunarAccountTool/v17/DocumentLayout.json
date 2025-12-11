@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|c:\\users\\dannu\\onedrive\\dokument\\myexe\\src\\crackedlunaraccounttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|c:\\users\\dannu\\onedrive\\dokument\\myexe\\src\\crackedlunaraccounttool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LunarAccountTool||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\consolehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\consolehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\logo.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\consolehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\consolehelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\crackedlunaraccounttool\\helpers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\CrackedLunarAccountTool.csproj|solutionrelative:crackedlunaraccounttool\\helpers\\accountmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615C84EE-B1ED-472E-84C6-D228727999D0}|CrackedLunarAccountTool\\LunarAccountTool.csproj|c:\\users\\dannu\\onedrive\\dokument\\myexe\\src\\crackedlunaraccounttool\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Program.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Program.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Program.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwDUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T13:04:36.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "logo.ico - Icon [256x256, 32 bit, PNG]",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\logo.ico",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\logo.ico",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\logo.ico - Icon [256x256, 32 bit, PNG]",
+              "RelativeToolTip": "CrackedLunarAccountTool\\logo.ico - Icon [256x256, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-10-05T17:12:18.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LunarAccountTool",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\LunarAccountTool.csproj",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\LunarAccountTool.csproj",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\LunarAccountTool.csproj",
+              "RelativeToolTip": "CrackedLunarAccountTool\\LunarAccountTool.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-10-05T17:11:55.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:10:10.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAMwIcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:07:22.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:07:22.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T17:07:22.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Program.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Program.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Program.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T16:35:01.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\Validate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:14:12.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleHelpers.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\ConsoleHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:13:53.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AccountManager.cs",
+              "DocumentMoniker": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "RelativeDocumentMoniker": "CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "ToolTip": "C:\\Users\\dannu\\OneDrive\\Dokument\\myEXE\\src\\CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "RelativeToolTip": "CrackedLunarAccountTool\\Helpers\\AccountManager.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAA4wHMAAACRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:12:45.03Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

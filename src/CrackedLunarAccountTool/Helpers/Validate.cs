@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace CrackedLunarAccountTool.Helpers
+namespace LunarAccountTool.Helpers
 {
     internal class Validate
     {
